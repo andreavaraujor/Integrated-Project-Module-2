@@ -1,4 +1,4 @@
-# 🏁 Integrated-Project-Module-2
+# 🏁 Integrated Project Module 2
 #
 ## 📝 Descripción del proyecto
 Este proyecto corresponde a la segunda fase del bootcamp, en la cual puse en práctica los conocimientos sobre análisis basado en eventos.
